@@ -1,6 +1,6 @@
-# Bash Prototypes
+# Shell Prototypes
 
-> **Bash Prototypes** is a collection of bash prototypes, examples, etc. The purpose of each prototype is to demonstrate how bash can be used or how another technology can be combined with bash.
+> **Shell Prototypes** is a collection of shell prototypes, examples, etc. The purpose of each prototype is to demonstrate how shell can be used.
 
 ## Getting started
 
